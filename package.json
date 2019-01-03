@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca desenvolvida no curso js tdd udemy\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsantos184/curso-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Diogo dos Santos <dsantos184@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsantos184/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/dsantos184/curso-js-tdd#readme"
+}
